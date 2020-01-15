@@ -55,5 +55,20 @@ namespace JRPCTool
                 MessageBox.Show("JRPC Tool - Could not connect!");
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!isConnected) return;
+                byte[] InfMajicka = new byte[] { 0x00, 0x00, 0x00, 0x00 };
+                Xbox.SetMemory(0x8350AB0C, InfMajicka);
+                Xbox.XNotify("Infinite Majicka - Enabled!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
     }
 }

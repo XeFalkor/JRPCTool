@@ -20,3 +20,14 @@ C:\Users\Tyler\Documents\GitHub\JRPC-Tool\JRPCTool\obj\Debug\JRPCTool.csproj.Cor
 C:\Users\Tyler\Documents\GitHub\JRPC-Tool\JRPCTool\obj\Debug\JRPCTool.csproj.CopyComplete
 C:\Users\Tyler\Documents\GitHub\JRPC-Tool\JRPCTool\obj\Debug\JRPCTool.exe
 C:\Users\Tyler\Documents\GitHub\JRPC-Tool\JRPCTool\obj\Debug\JRPCTool.pdb
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\bin\Debug\JRPCTool.exe.config
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\bin\Debug\JRPCTool.exe
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\bin\Debug\JRPCTool.pdb
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.frmMain.resources
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.Properties.Resources.resources
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.csproj.GenerateResource.cache
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.csproj.CopyComplete
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.exe
+C:\Users\Tyler\Documents\GitHub\JRPCTool\JRPCTool\JRPCTool\obj\Debug\JRPCTool.pdb
